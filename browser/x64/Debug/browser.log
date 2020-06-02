@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  browser.cpp
+c:\users\mm\source\repos\proxy\browser\browser.cpp(334): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\mm\source\repos\proxy\browser\browser.cpp(433): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+c:\users\mm\source\repos\proxy\browser\browser.cpp(440): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  browser.vcxproj -> C:\Users\mm\source\repos\proxy\x64\Debug\browser.exe

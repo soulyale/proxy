@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  proxy.cpp
+c:\users\mm\source\repos\proxy\proxy\proxy.cpp(298): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\mm\source\repos\proxy\proxy\proxy.cpp(316): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\mm\source\repos\proxy\proxy\proxy.cpp(412): warning C4267: “=”: 从“size_t”转换到“UINT”，可能丢失数据
+c:\users\mm\source\repos\proxy\proxy\proxy.cpp(419): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  mainlist.cpp
+  正在生成代码...
+  proxy.vcxproj -> C:\Users\mm\source\repos\proxy\x64\Debug\proxy.exe
